@@ -1,0 +1,169 @@
+body {@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+.width{
+    width: 1440px;
+}
+.start_site{
+    display: flex;
+    justify-content: center;
+    align-items:baseline;
+    margin-left: 182px;
+    flex-direction: column;
+    width: 50%;
+}
+h2{
+    color: #222;
+    font-size: 40px;
+    width: 465px;
+    line-height: 40px; /* 155% */
+    margin-top: 112px;
+}
+.portfolio_text{
+    width: 509px;
+    height: 144px;
+    margin-top: 7px;
+}
+.photo{
+    position: relative;
+    width: 406px;
+    height: 406px;
+    left: 800px;
+    bottom: 400px;
+}
+.send-request{
+    margin-top: 10px;
+    color: #F9F9F9;
+    font-size: 18px;
+    font-weight: 500;
+    width: 151px;
+    height: 55px;
+    border-radius: 10px;
+    background: #FF2950;
+}
+.download-cv{
+    margin-top: 10px;
+    width: 153px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #FF9B70;
+    color: rgba(34, 34, 34, 0.50);
+    font-size: 18px;
+    font-weight: 500;
+}
+.bubutton_header{
+    display: flex;
+    justify-content: space-between;
+}
+
+/******oranj box******/
+.rec{
+    width: 1140px;
+    height: 519px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #FF7315;
+    margin-left: 150;
+    display: flex;
+    align-items: center;
+}
+.oranj_navi{
+    position: relative;
+    left: 200px;
+}
+.number_120{
+    color: #F9F9F9;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 62px; 
+}
+.oranj_box_1{
+    color: #F9F9F9;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; 
+    margin-top: 16px;
+}
+.oranj_box_2{
+    color: #F9F9F9;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 62px; 
+    margin-top: 19px;
+}
+.oranj_box_3{
+    color: #F9F9F9;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45px; 
+    margin-top: 19px;
+}
+.transparent{
+    width: 430px;
+    height: 329px;
+}
+.block_info{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+/****about_me**/
+.About_me{
+    margin-left: 555px;
+}
+/***advantages****/
+.advantages_me{
+    height: 10vw;
+    margin-top: 100px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 400px;
+    gap: 60;
+}
+
+.text_top{
+    color: #222;
+    font-size: 24px;
+    font-weight: 250px;
+    line-height: 36px; 
+}
+.text_bottom{
+    display: flex;
+    color: rgba(34, 34, 34, 0.50);
+    flex-direction: column;
+    font-size: 18px;
+    font-weight: 250px;
+    line-height: 30px; ;
+}
+/**portfolio_photo**/
+.portfolio_foto{
+    color: #222;
+    margin-left: 150px ;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 123.6%; /* 59.328px */
+    text-transform: capitalize;
+}
+.portfolio_image{
+    padding: 24px;
+    margin-left: 225px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/**customer orientation**/
+
